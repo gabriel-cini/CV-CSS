@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size: 16px;
+    font-family: cyan,Cursiva,serif;
+    background-color: aqua;
+    }
+
+.addr{
+    margin : 20px auto;
+    width: 80%;
+    padding: 15px;
+    color: chocolate;
+}
+
+h1{
+    color: crimson;
+    width: 80%;
+    text-align: center;
+}   
+
+h2{
+    margin: 20px;
+    width: 80%;
+    color: blue;
+
+}
+
+h3{
+    margin: 20px;
+    width: 80%;
+    color: blueviolet;
+}
+.COMPÉTENCES{
+
+    margin: 20px;
+    width: 80%;
+    color: darkviolet;
+}
+h4{
+    margin: 20px;
+    width: 80%;
+    color: darkgoldenrod;
+}
+.EXPÉRIENCES{
+ margin: 20px;
+ width: 80%;
+ color: darkblue;
+ text-align: center;  
+}
+
+h5{
+    margin: 20px;
+    width: 200%;
+    color: chartreuse;
+}
+.FORMATIONS{
+    margin: 20px;
+    width: 80%;
+    color: brown;
+}
+.LOISIRS{
+    margin: 20px;
+    width: 80%;
+    color: darkgrey;
+}
